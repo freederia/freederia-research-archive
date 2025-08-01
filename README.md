@@ -15,7 +15,7 @@ This repository serves as an open-source gateway to our vast archive. The docume
 
 
 
-Of course, here is the updated version. Each entry now has the link written twice, once on the title and a second time as a clickable URL text, to ensure it displays correctly in environments like a GitHub README.
+
 
 ## Micro-Level Research in Diagrammatic Reasoning: Optimization of a Real-Time Decision-Making Trading System Based on Causal Bayesian Networks (https://en.freederia.com/research/412004/): ### 1. Introduction: AI-based trading systems have emerged as a key technology that enhances the efficiency of financial markets and provides new opportunities for individual investors....
 
