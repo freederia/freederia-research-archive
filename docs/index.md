@@ -1,1 +1,14 @@
-# Welcome to Freederia Research Archive
+---
+title: "Freederia Research Archive"
+layout: default
+permalink: /
+---
+# 📚 Freederia 전체 연구 아카이브
+
+날짜별로 정리된 연구 문서 목록입니다.
+
+- [2025/08/06](/docs/2025/08/06/)
+- [2025/08/05](/docs/2025/08/05/)
+- [2025/08/04](/docs/2025/08/04/)
+- [2025/08/03](/docs/2025/08/03/)
+- [2025/08/02](/docs/2025/08/02/)
